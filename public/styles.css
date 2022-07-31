@@ -1,0 +1,15 @@
+body {
+  color: #fff;
+  width: 300px;
+  margin: 0 auto;
+  background-color: #374954;
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+.container {
+  margin: auto;
+}
